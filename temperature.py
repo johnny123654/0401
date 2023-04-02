@@ -1,0 +1,6 @@
+print ('攝氏轉華視')
+Celsius = input ('攝氏溫度')
+Celsius = int (Celsius)
+Fahrenheit = (Celsius * (9/5) + 32)
+Fahrenheit = int (Fahrenheit)
+print (' 華氏溫度 ' , Fahrenheit)
